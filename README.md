@@ -8,20 +8,6 @@ The purpose of this repository is to improve my **problem-solving skills, Python
 
 - Python 3
 
-## 📚 Problems Solved
-
-| LeetCode # | Problem | Topic |
-|---|---|---|
-| 217 | Contains Duplicate | Hashing / Set |
-| 412 | Fizz Buzz | Loops / Conditions |
-| 1480 | Running Sum of 1D Array | Arrays |
-| 1672 | Richest Customer Wealth | Arrays / Loops |
-| 1920 | Build Array from Permutation | Arrays |
-| 1929 | Concatenation of Array | Arrays |
-| 2114 | Maximum Number of Words Found in Sentences | Strings |
-| 2235 | Add Two Integers | Basic Math |
-| 2469 | Convert the Temperature | Basic Math |
-
 ## 🧠 Concepts Practiced
 
 - Python Basics
@@ -39,7 +25,6 @@ The purpose of this repository is to improve my **problem-solving skills, Python
 
 ## 📊 Progress
 
-**Easy Problems Solved: 9**
 
 I will continuously update this repository as I solve more LeetCode problems.
 
