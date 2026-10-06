@@ -1,6 +1,6 @@
-# LeetCode Solutions - Easy
+# LeetCode Solutions 
 
-This folder contains my solutions to **Easy-level LeetCode problems**, implemented in **Python**.
+This folder contains my leetcode solutions, implemented in **Python**.
 
 The purpose of this repository is to improve my **problem-solving skills, Python programming, and Data Structures & Algorithms (DSA)** knowledge for technical interviews and placements.
 
